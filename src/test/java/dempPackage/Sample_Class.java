@@ -8,7 +8,7 @@ public class Sample_Class {
 		
 		System.out.println("used for resolve git conflict");
 		
-		
+		System.out.println("Bye bye");
 	}
 	
 }
