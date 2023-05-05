@@ -6,7 +6,11 @@ public class Sample_Class {
 		
 		System.out.println("Used for pull operation");
 		
+
 		System.out.println("used to push without pull");
+
+		System.out.println("used for resolve git conflict");
+
 	}
 	
 }
